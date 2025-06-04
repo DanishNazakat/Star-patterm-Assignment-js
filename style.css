@@ -1,9 +1,11 @@
 body{
-    background-color: aqua;
+    background-color:#fdfcfc;
     font-size: 25px;
+    color: #4DA8DA;
 }
 h2{
     font-size: 30px;
+    color: #ff6b6b;
 }
 /* .container{
     background-color: blueviolet;
